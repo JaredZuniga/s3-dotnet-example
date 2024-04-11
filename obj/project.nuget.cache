@@ -1,0 +1,20 @@
+{
+  "version": 2,
+  "dgSpecHash": "DfIfQ4HZ05JhZO9Ri7+b0S+rNTSx/OM11Z80P7oGsXmz0QsL0KJ9ReXKfmCFxx/4iq64awZ9yq9hcO0GGwgVdA==",
+  "success": true,
+  "projectFilePath": "/Users/jaredhernandez/Desktop/KARE/s3/s3.csproj",
+  "expectedPackageFiles": [
+    "/Users/jaredhernandez/.nuget/packages/awssdk.core/3.7.303.13/awssdk.core.3.7.303.13.nupkg.sha512",
+    "/Users/jaredhernandez/.nuget/packages/awssdk.s3/3.7.307.14/awssdk.s3.3.7.307.14.nupkg.sha512",
+    "/Users/jaredhernandez/.nuget/packages/awssdk.sso/3.7.300.73/awssdk.sso.3.7.300.73.nupkg.sha512",
+    "/Users/jaredhernandez/.nuget/packages/awssdk.ssooidc/3.7.301.68/awssdk.ssooidc.3.7.301.68.nupkg.sha512",
+    "/Users/jaredhernandez/.nuget/packages/microsoft.aspnetcore.openapi/8.0.3/microsoft.aspnetcore.openapi.8.0.3.nupkg.sha512",
+    "/Users/jaredhernandez/.nuget/packages/microsoft.extensions.apidescription.server/6.0.5/microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "/Users/jaredhernandez/.nuget/packages/microsoft.openapi/1.4.3/microsoft.openapi.1.4.3.nupkg.sha512",
+    "/Users/jaredhernandez/.nuget/packages/swashbuckle.aspnetcore/6.4.0/swashbuckle.aspnetcore.6.4.0.nupkg.sha512",
+    "/Users/jaredhernandez/.nuget/packages/swashbuckle.aspnetcore.swagger/6.4.0/swashbuckle.aspnetcore.swagger.6.4.0.nupkg.sha512",
+    "/Users/jaredhernandez/.nuget/packages/swashbuckle.aspnetcore.swaggergen/6.4.0/swashbuckle.aspnetcore.swaggergen.6.4.0.nupkg.sha512",
+    "/Users/jaredhernandez/.nuget/packages/swashbuckle.aspnetcore.swaggerui/6.4.0/swashbuckle.aspnetcore.swaggerui.6.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}

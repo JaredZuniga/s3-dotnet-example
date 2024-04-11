@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "v4oEM6TgHzPF+JA6HH9OjalIngnlD5xnBsUwD/SLMaQ=",
+  "Source": "s3",
+  "BasePath": "_content/s3",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
